@@ -1,2 +1,2 @@
-# jspractice
-learning js
+# jspractice 
+earning js
